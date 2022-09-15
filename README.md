@@ -27,6 +27,6 @@ docker run -d -p 80:80 ashamsiev-nginx:v1
 curl localhost:80
 #after all push imagefile to dockerhub trough the VisualStudioCode
 the end
-
-
+Link to docker rep
+#https://hub.docker.com/repository/docker/ashamsiev/hw_test01
 
